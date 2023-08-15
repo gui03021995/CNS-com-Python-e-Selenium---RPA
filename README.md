@@ -1,4 +1,4 @@
-# Automatiza-o-Eficiente-da-Valida-o-de-Dados-do-CNS-com-Python-e-Selenium---RPA
+# CNS-com-Python-e-Selenium---RPA
 
 Este repositório contém um projeto que visa automatizar o processo de validação de números de Cartão Nacional de Saúde (CNS) utilizando a linguagem de programação Python e a biblioteca Selenium. A aplicação automatiza a consulta dos dados no site do DATASUS e atualiza o banco de dados com os resultados, tornando todo o processo mais rápido, eficiente e preciso.
 
