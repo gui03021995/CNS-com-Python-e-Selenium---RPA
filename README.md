@@ -11,8 +11,7 @@ Este repositório contém um projeto que visa automatizar o processo de validaç
 4. Edite as configurações do banco de dados no código, incluindo o nome do servidor, nome do banco de dados, etc.
 5. Execute o arquivo automacao_cns.py para iniciar a automação.
 
-## Nota: 
-    Este projeto é um exemplo educacional e pode ser adaptado para atender às necessidades específicas de validação de dados do CNS em diferentes contextos.
+Nota : Este projeto é um exemplo educacional e pode ser adaptado para atender às necessidades específicas de validação de dados do CNS em diferentes contextos.
 
 Contribuição: Sinta-se à vontade para contribuir com melhorias, correções ou adição de recursos adicionais. Basta fazer um fork deste repositório, criar um branch para suas alterações e enviar um pull request.
 
